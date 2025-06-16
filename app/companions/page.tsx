@@ -2,7 +2,7 @@ import React from 'react'
 
 const ComponentLibrary = () => {
   return (
-    <div>ComponentLibrary</div>
+    <div>Component Library</div>
   )
 }
 

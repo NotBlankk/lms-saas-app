@@ -4,7 +4,7 @@ import React from 'react'
 const Page = () => {
   return (
     <div>
-      <h1 className='text-2xl underline'>LOL</h1>
+      <h1 className='text-2xl underline'>Home Page</h1>
       <Button>Lol</Button>
     </div>
     
