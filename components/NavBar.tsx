@@ -1,6 +1,5 @@
 import Link from "next/link";
 import Image from "next/image";
-
 import { SignInButton, SignedIn, SignedOut, UserButton } from "@clerk/nextjs";
 import NavItems from "@/components/NavItems";
 
